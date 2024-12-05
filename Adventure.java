@@ -1,5 +1,4 @@
 /*
-Name: Aryaa Mutha
 Purpose: Upgraded adventure game from runestone
 Date: 11/13/24
  */
